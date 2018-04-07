@@ -1,5 +1,5 @@
 # FiniteStats-for-Last.fm
-This is the start of a personal to make a web application for analyzing and manipulating data for a user from Last.fm's web API.
+This is the start of a personal project to make a web application for analyzing and manipulating data for a user from Last.fm's web API.
 
 I've worked on this off and on throughout my Spring 2018 semester.
 
