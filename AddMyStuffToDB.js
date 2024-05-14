@@ -3,7 +3,7 @@ const http = require('http');
 const sql = require('sqlite3').verbose();
 
 //constants
-const api_key = '2250286cc9286ad20b304fc7650e63c3';
+const api_key = '';
 const lfmhost = 'ws.audioscrobbler.com';
 const lfmport = 80;
 const limit = 75;
